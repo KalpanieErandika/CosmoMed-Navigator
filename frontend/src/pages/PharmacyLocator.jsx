@@ -34,7 +34,7 @@ function PharmacyLocator() {
   const clustererRef = useRef(null);
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyDv0vperdPsHLBs2dP3Z0sZ-QUjxFRbJS8",
+    googleMapsApiKey: " ",
     libraries: ["places"],
   });
 
