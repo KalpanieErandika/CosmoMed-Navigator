@@ -1,0 +1,39 @@
+# ========================
+# LARAVEL
+# ========================
+backend/vendor/
+backend/.env
+backend/storage/logs/
+backend/storage/framework/
+backend/node_modules/
+
+# ========================
+# REACT FRONTEND
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/*.local
+
+# ========================
+# PYTHON (FLASK)
+# ========================
+prescription-service/venv/
+prescription-service/__pycache__/
+prescription-service/*.pyc
+prescription-service/uploads/
+prescription-service/.env
+
+# ========================
+# GLOBAL
+# ========================
+node_modules/
+vendor/
+.env
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
